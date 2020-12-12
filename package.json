@@ -35,25 +35,25 @@
   "homepage": "https://github.com/tec27/nydus-client",
   "dependencies": {
     "backo": "^1.1.0",
-    "cuid": "^2.1.6",
-    "engine.io-client": "^3.3.2",
+    "cuid": "^2.1.8",
+    "engine.io-client": "^4.0.5",
     "immutable": "^4.0.0-rc.12",
     "nydus-protocol": "^1.0.0",
     "ruta3": "^2.0.0"
   },
   "devDependencies": {
-    "@babel/cli": "^7.4.4",
-    "@babel/core": "^7.4.5",
-    "@babel/preset-env": "^7.4.5",
-    "@babel/register": "^7.4.4",
-    "babel-eslint": "^10.0.2",
+    "@babel/cli": "^7.12.10",
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.10",
+    "@babel/register": "^7.12.10",
+    "babel-eslint": "^10.1.0",
     "chai": "^4.2.0",
     "chai-as-promised": "^7.1.1",
-    "cross-env": "^5.2.0",
-    "eslint": "^5.16.0",
-    "eslint-plugin-babel": "^5.3.0",
-    "mocha": "^6.1.4",
+    "cross-env": "^7.0.3",
+    "eslint": "^7.15.0",
+    "eslint-plugin-babel": "^5.3.1",
+    "mocha": "^8.2.1",
     "nydus": "^1.0.4",
-    "rimraf": "^2.6.3"
+    "rimraf": "^3.0.2"
   }
 }
